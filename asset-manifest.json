@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Webpage/static/css/main.164ce394.css",
+    "main.js": "/E-commerce-Webpage/static/js/main.0209e7ff.js",
+    "static/media/telefoon.png": "/E-commerce-Webpage/static/media/telefoon.940c9ccf7b2b29963ca2.png",
+    "index.html": "/E-commerce-Webpage/index.html",
+    "main.164ce394.css.map": "/E-commerce-Webpage/static/css/main.164ce394.css.map",
+    "main.0209e7ff.js.map": "/E-commerce-Webpage/static/js/main.0209e7ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.164ce394.css",
+    "static/js/main.0209e7ff.js"
+  ]
+}
