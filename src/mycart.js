@@ -48,7 +48,7 @@ export default function MyCart() {
               {cart.map((item) => (
                 <tr key={item.id}>
                   <td>
-                    <img src={item.image} width="80" />
+                    <img src={item.image} alt={item.name || "Product image"} width="80" />
                   </td>
 
                   <td>{item.name}</td>

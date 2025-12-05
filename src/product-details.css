@@ -1,0 +1,11 @@
+:root {
+    --text-color: black;
+}
+
+.darkmode {
+    --text-color: white;
+}
+
+.head {
+    color: var(--text-color);
+}
